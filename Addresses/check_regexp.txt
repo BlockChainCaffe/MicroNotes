@@ -1,0 +1,5 @@
+## Must start with 1 or 3
+## Must be Base58 Compliant (no Il0O
+## Length 26-35
+
+^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$
